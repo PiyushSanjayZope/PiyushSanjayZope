@@ -1,10 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Hey! I'm Piyush. Nice to see you.</h1>
 
 ### I have technical experience and interest in -
+
 * Machine Learning 
 * Deep Learning
 * Computer vision
-* Natural Language Processing 
+* Data Analysis
 
 #### Follow me on- 
 
