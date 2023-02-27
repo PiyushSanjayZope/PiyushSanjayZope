@@ -7,7 +7,7 @@
 * Computer vision
 * Automation Development
 
-#### Follow and connect with me on- 
+#### Feel free to connect with me on- 
 
 [<img align="left"  alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"/>][YouTube]
