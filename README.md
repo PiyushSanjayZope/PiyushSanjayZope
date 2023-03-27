@@ -2,7 +2,7 @@ Hey👋, I'm Piyush Zope (Systems Engineer)
 
 I'm a motivated IT professional who is always keen to work in an efficient way by following the best possible approach in Industry. Believes in adapting newer technologies and methods to save time and effort without compromising values and maintaining compliance. Working with high-performance teams which are efficient and can help businesses to achieve their goals.
 
-Have several years of experience in the development of automation, data analysis, and implementing ML models in the Healthcare domain. Experienced in using technologies and tools like Python, SQL Server, PowerShell scripting, Power Bi, Microsoft Azure, Power Automate, Microsoft Excel, Machine learning, Tableau, Flask, MongoDB, API Built & Integration, Vbscript, HTML, and CSS.
+Have several years of experience in the development of automation, data analysis, and implementing ML models in the Healthcare domain. Experienced in using technologies and tools like Python, SQL Server, PowerShell scripting, Power Bi, Microsoft Azure, Power Automate, Microsoft Excel, Machine learning, Tableau, Flask, MongoDB, API, Vbscript, HTML, and CSS.
 
 <hr>
 
