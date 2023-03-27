@@ -27,6 +27,6 @@ Hey👋, I'm Piyush Zope. I am a computer science graduate and currently working
 
 
 #### My Hobbies and interests ->
-* Swimming
-* Cycling
-* Gardening
+* Swimming 🏊🏻
+* Cycling 🚲
+* Gardening 🌳
