@@ -7,12 +7,12 @@ Hey👋, I'm Piyush Zope. I am a computer science graduate and currently working
 
 #### Feel free to connect with me on- 
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>][linkedin]
-[<img align="left" alt="Xing" width="30px" src="https://www.vectorlogo.zone/logos/xing/xing-ar21.svg"/>][Xing]
-[<img align="left" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/>][Twitter]
-[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"/>][Instagram]
-[<img align="left" alt="Kaggle" width="30px" src="https://www.kaggle.com/static/images/site-logo.svg"/>][Kaggle]
-[<img align="left" alt="YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"/>][YouTube]
+[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>][linkedin]
+[<img align="left" alt="Xing" width="30px" src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg"/>][Xing]
+[<img align="left" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>][Twitter]
+[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>][Instagram]
+[<img align="left" alt="Kaggle" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/>][Kaggle]
+[<img align="left" alt="YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/>][YouTube]
 <br>
 
 <hr>
