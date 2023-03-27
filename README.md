@@ -1,7 +1,4 @@
-Hey👋, I'm Piyush Zope. I am a motivated IT professional who is always keen to work in an efficient way by following the best possible approach in Industry. Believes in adapting newer technologies and methods to save time and effort without compromising values and maintaining compliance. Working with high-performance teams which are efficient and can help businesses to achieve their goals.
-
-Have several years of experience in the development of automation and ML models in the Healthcare domain. Experienced in using technologies and tools like Python, Machine learning, MS SQL Server, Microsoft Azure, MongoDB, API Integration, Power Automate, PowerShell scripting, PowerBi, ITSM, Service Now, Tableau, and Flask.
-
+Hey👋, I'm Piyush Zope. I am a computer science graduate and currently working as a Systems Engineer at Altera Digital Health.
 
 #### Feel free to connect with me on- 
 
