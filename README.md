@@ -1,4 +1,4 @@
-Hey👋, I'm Piyush Zope. I am a computer science graduate and currently working as a Systems Engineer at Altera Digital Health.
+Hey👋, I'm Piyush Zope (Systems Engineer)
 
 I'm a motivated IT professional who is always keen to work in an efficient way by following the best possible approach in Industry. Believes in adapting newer technologies and methods to save time and effort without compromising values and maintaining compliance. Working with high-performance teams which are efficient and can help businesses to achieve their goals.
 
