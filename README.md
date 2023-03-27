@@ -1,7 +1,7 @@
 Hey👋, I'm Piyush Zope. I am a computer science graduate and currently working as a Systems Engineer at Altera Digital Health.
 
 
-<img src="https://drive.google.com/file/d/1NPCYeBcIFULA7Hxx9Oy_OtzOFLDKawoB/view?usp=share_link" alt="Paris" class="center">
+<center><img src="https://drive.google.com/file/d/1NPCYeBcIFULA7Hxx9Oy_OtzOFLDKawoB/view?usp=share_link" alt="centered image" height="598" width="398"> </center>
 
 
 #### Languages and Tools ->
